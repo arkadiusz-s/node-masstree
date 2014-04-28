@@ -1,0 +1,4 @@
+{ "name" : "node-masstree",
+  "version" : "0.0.1",
+  "main" : "build/Release/node-masstree"
+}
